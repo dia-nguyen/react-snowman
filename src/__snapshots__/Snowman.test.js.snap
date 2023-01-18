@@ -21,6 +21,7 @@ exports[`matches snapshot 1`] = `
       _
       _
       _
+      _
     </p>
     <p
       class="Snowman-letters"
@@ -156,6 +157,11 @@ exports[`matches snapshot 1`] = `
         z
       </button>
     </p>
+    <button
+      class="Snowman-restart"
+    >
+      Restart
+    </button>
   </div>
 </div>
 `;
